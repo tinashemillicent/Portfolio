@@ -3,8 +3,14 @@
 <p align="center">
   Associate Data Analyst & IT Professional  
   <br>
-  <em>HRE, Zim </em>
-</p>
+
+---
+## 📫 Contact
+
+- 📧 Email: [tinashesefaidiga@gmail.com](mailto:tinashesefaidiga@gmail.com)  
+- 🌐 Blog: [Medium | tinashemillicent](https://medium.com/@tinashemillicent)
+- 🌐 Persona Blog: [Substack | tinashemillicent](https://tinashemillicent.substack.com)  
+- 💼 LinkedIn: [Millicent Sefaidiga](https://linkedin.com/in/millicentsefaidiga)
 
 ---
 
