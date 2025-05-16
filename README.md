@@ -27,6 +27,7 @@ In my free time, you'll find me relaxing with anime or diving into a new book â€
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Breast Cancer Prediction](https://github.com/tinashemillicent/Breast-Cancer-Prediction)) | A classification task aimed at predicting the diagnosis of a breast mass as either malignant or benign. | `Python`, `Pandas`, `MatPlotlib`, `Seaborn`  |
+| [Warranty Claims Fraud Detection](https://github.com/tinashemillicent/Warranty-Claims-Fraud-Detection)) | This project focuses on identifying potential fraudulent warranty claims by building and evaluating machine learning models. Detecting fraud in warranty claims helps companies reduce financial losses and maintain trust with legitimate customers. | `Python`, `Pandas`, `MatPlotlib`, `Seaborn`,`Logistic regression`, `decision tree classifier`, `random forest` |
 <!--| [Project Two Name](https://github.com/your-username/project-two) | Something compelling and results-driven. | `SQL`, `Power BI`, `Excel` |
 | [Project Three Name](https://github.com/your-username/project-three) | Maybe a machine learning or data storytelling project. | `scikit-learn`, `Jupyter`, `Matplotlib` |-->
 
