@@ -48,7 +48,14 @@ In my free time, you'll find me relaxing with anime or diving into a new book â€
 
 -  Google Foundations of Business Intelligence  
 -  Google Foundations of Data Science  
--  IBM Introduction to Data Analytics 
+-  IBM Introduction to Data Analytics
+-  Google System Administration and IT Infrastructure
+-  Google The Path to Insights_Data Models and Pipelines
+-  Google Decisions, Dashboards an reports
+-  LinkedIn Learning: Artificial Intelligence Foundation: Machine Learning
+-  LinkedIn Learning: Introduction to Web design and Development
+-  LinkedIn Learning: Java Object Oriented Programming
+-  LinkedIn Learning: Ethical hacking: system hacking
 
 ---
 
